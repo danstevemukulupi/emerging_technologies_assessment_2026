@@ -1,0 +1,10 @@
+# Install python  
+pip install python
+
+# Install pip latest version
+pip install --upgrade pip
+
+# Install dependencies
+pip install -r requirements.txt
+
+
